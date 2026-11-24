@@ -1,0 +1,7 @@
+ID,Hypothesis,Evidence,Decision,Interpretation
+H1,Warehouse processing time increased after April,Welch t-test p-value approximately 0,Supported,Average warehouse processing time increased significantly
+H2,Delivery performance differs by hub,Chi-square p-value approximately 0,Supported,At least one hub has a different delay rate
+H3,Older vehicles are associated with longer delivery times,Correlation = 0.187,Weak support,A weak positive relationship exists; this is not proof of causation
+H4,Delivery performance differs by route,Chi-square p-value approximately 0,Supported,At least one route has a different delay rate
+H5,Delay rates differ by service type,Chi-square p-value approximately 0,Supported,Service types have different delay rates
+H6,Higher weekly volume is associated with lower OTD,Correlation = -0.100; p = 0.619,Not supported,No significant weekly relationship was detected
